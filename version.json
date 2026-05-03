@@ -1,7 +1,7 @@
 {
   "app": "app-medico",
-  "latestVersion": "v1.0.1",
-  "publishedAt": "2026-05-03T12:00:00Z",
+  "latestVersion": "v1.0.2",
+  "publishedAt": "2026-05-03T12:01:50Z",
   "image": "andersonhrz/app-medico:stable",
   "message": "Atualização recomendada para melhorias de performance. Melhoria na visibilidade do indicador de versão. Feche o app e execute atualizar-app.bat."
 }
